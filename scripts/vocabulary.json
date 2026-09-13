@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {"term": "delve", "category": "ai-tell", "replacement": "name the exact operation, such as inspect or compare", "advisory": true},
+    {"term": "tapestry", "category": "ai-tell", "replacement": "name the components and their relationship", "advisory": true},
+    {"term": "pivotal", "category": "ai-tell", "replacement": "state the consequence", "advisory": true},
+    {"term": "vibrant", "category": "ai-tell", "replacement": "give a count or omit the claim", "advisory": true},
+    {"term": "leverage", "category": "ai-tell", "replacement": "use a specific verb such as use, call, or reuse", "advisory": true},
+    {"term": "robust", "category": "ai-tell", "replacement": "name the handled failure or constraint", "advisory": true},
+    {"term": "seamless", "category": "ai-tell", "replacement": "state the omitted step or preserved interface", "advisory": true},
+    {"term": "crucial", "category": "ai-tell", "replacement": "state what fails when the condition is missed", "advisory": true},
+    {"term": "showcase", "category": "ai-tell", "replacement": "state the observed result", "advisory": true},
+    {"term": "underscore", "category": "ai-tell", "replacement": "state the evidence or requirement", "advisory": true},
+    {"term": "testament", "category": "ai-tell", "replacement": "state the evidence directly", "advisory": true},
+    {"term": "enhance", "category": "ai-tell", "replacement": "name the measured change", "advisory": true},
+    {"term": "in order to", "category": "filler", "replacement": "to", "advisory": false},
+    {"term": "it should be noted that", "category": "filler", "replacement": "start with the fact", "advisory": false},
+    {"term": "simply", "category": "filler", "replacement": "state the required step or omit the word", "advisory": false},
+    {"term": "obviously", "category": "filler", "replacement": "state the evidence or omit the word", "advisory": false},
+    {"term": "overall", "category": "filler", "replacement": "name the measured dimension or omit the word", "advisory": false},
+    {"term": "utilize", "category": "jargon", "replacement": "use", "advisory": true},
+    {"term": "ecosystem", "category": "jargon", "replacement": "name the packages, tools, maintainers, or users", "advisory": true},
+    {"term": "synergy", "category": "jargon", "replacement": "state the interaction and result", "advisory": true},
+    {"term": "landscape", "category": "jargon", "replacement": "name the bounded set", "advisory": true},
+    {"term": "various", "category": "jargon", "replacement": "list the items or give the count", "advisory": true}
+  ]
+}
