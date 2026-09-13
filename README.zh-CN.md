@@ -1,5 +1,9 @@
 # Writing Skill
 
+[English](README.md) | 简体中文 | [繁體中文](README.zh-TW.md)
+
+Writing Skill 为编程 agent 提供可执行的英文与 Markdown 写作规范，使文字简洁，并以证据为依据。
+
 <!-- skill-map -->
 ## 总图
 
@@ -18,10 +22,6 @@
  └─ 任何英文正文 ──▶ writing-skill（横切：README、docs、注释、提交、PR、issue）
 ```
 <!-- /skill-map -->
-
-[English](README.md) | 简体中文 | [繁體中文](README.zh-TW.md)
-
-Writing Skill 为编程 agent 提供可执行的英文与 Markdown 写作规范，使文字简洁，并以证据为依据。
 
 规范覆盖 README、按任务组织的文档、代码注释、commit、PR 与 issue。`writing_lint.py` 检查公式化词汇和结构，但不会据此判断作者身份。
 

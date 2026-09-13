@@ -1,5 +1,9 @@
 # Writing Skill
 
+English | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+
+Writing Skill gives coding agents executable rules for concise, evidence-based English and Markdown.
+
 <!-- skill-map -->
 ## Map
 
@@ -21,10 +25,6 @@ a task arrives
  └─ any English prose ──▶ writing-skill (cross-cutting: README, docs, comments, commit, PR, issue)
 ```
 <!-- /skill-map -->
-
-English | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
-
-Writing Skill gives coding agents executable rules for concise, evidence-based English and Markdown.
 
 It covers README files, task-based documentation, code comments, commit messages, pull requests, and issues. `writing_lint.py` reports formulaic vocabulary and structures without treating them as evidence of authorship.
 
