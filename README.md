@@ -1,5 +1,27 @@
 # Writing Skill
 
+<!-- skill-map -->
+## Map
+
+```text
+a task arrives
+ ├─ define structure (package structure, data, deployment shape, frontend directories)
+ │    └─▶ zakk-architecture ──interface values──▶ web-ui
+ │              └─ Must produce three documents: design language (web-ui) / architecture
+ │                 (this skill) / workflow (zakk-workflow)
+ ├─ one change (fix, feature, documentation, skill change)
+ │    └─▶ zakk-maintain
+ │          ├─ 1. Write the plan as a file ──approve──▶ another mind
+ │          ├─ 2. Write a specification from the approved plan ──dispatch──▶ dispatch --engine omp | codex | opencode
+ │          ├─ 3. Judge the diff ──▶ zakk-review; reviewer performs ablation, gates, and differential checks;
+ │          │   then dispatch an uninformed cold reader
+ │          └─ 4. Land and report ──▶ zakk-workflow (branch, commit, pull request, completion report)
+ ├─ any Chinese ──▶ chinese-skill (cross-cutting: every skill reads it; reread after compaction,
+ │                  restoration, or task switching)
+ └─ any English prose ──▶ writing-skill (cross-cutting: README, docs, comments, commit, PR, issue)
+```
+<!-- /skill-map -->
+
 English | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
 Writing Skill gives coding agents executable rules for concise, evidence-based English and Markdown.

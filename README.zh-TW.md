@@ -1,5 +1,24 @@
 # Writing Skill
 
+<!-- skill-map -->
+## 總圖
+
+```text
+任務進來
+ ├─ 定結構（包結構、資料、部署形態、前端目錄）
+ │    └─▶ zakk-architecture ──介面取值──▶ web-ui
+ │              └─ 必出三份文件：設計語言(web-ui) / 架構(本份) / 工作流(zakk-workflow)
+ ├─ 一次改動（修復、小功能、文件、skill 改動）
+ │    └─▶ zakk-maintain
+ │          ├─ 1 計劃寫成檔案 ──送審──▶ 另一個頭腦
+ │          ├─ 2 按批准的計劃寫說明書 ──派工──▶ dispatch --engine omp | codex | opencode
+ │          ├─ 3 判 diff ──▶ zakk-review ；審者自己做消融、門禁、對拍 ；再派一個沒看過計劃的冷讀
+ │          └─ 4 落倉與報告 ──▶ zakk-workflow（分支、提交、合併請求、完成報告）
+ ├─ 任何中文 ──▶ chinese-skill（橫切：每份都讀，壓縮、恢復、切換任務後重讀）
+ └─ 任何英文正文 ──▶ writing-skill（橫切：README、docs、註釋、提交、PR、issue）
+```
+<!-- /skill-map -->
+
 [English](README.md) | [简体中文](README.zh-CN.md) | 繁體中文
 
 Writing Skill 為程式開發 agent 提供可執行的英文與 Markdown 寫作規範，使文字簡潔，並以證據為依據。
